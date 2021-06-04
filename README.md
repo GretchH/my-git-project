@@ -4,4 +4,4 @@
 
 *Fork from [es6-webpack2-starter](https://github.com/micooz/es6-webpack2-starter)*
 
-My little change
+My little change because I'm difficult
